@@ -15,3 +15,44 @@
   margin-left: 5%;
   margin-right: 5%;
 }
+
+.topbar {
+  padding: 10px 20px;
+  background-color: #2385c2;
+}
+
+.title {
+  font-family: Segoe UI;
+  font-size: 24px;
+  font-weight: bolder;
+  color: black;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.blank {
+  padding: 10px 10px;
+}
+
+.line {
+  font-family: Segoe UI;
+  font-size: 24px;
+  color: black;
+  font-weight: bolder;
+}
+
+.menu:link, .menu:visited {
+  padding: 10px 20px;
+  font-family: Segoe UI;
+  font-size: 24px;
+  color: white;
+  text-decoration: none;
+}
+
+.menu:hover, .menu:active {
+  padding: 10px 20px;
+  font-family: Segoe UI;
+  font-size: 24px;
+  background-color: orange;
+  color: lightgray;
+}
