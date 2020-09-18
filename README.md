@@ -1,2 +1,3 @@
-# https://kygekraqmak.github.io/downloads/
-Kygekraqmak's Projects Download Center
+# http://kygekdownloads.freecluster.eu
+
+Redirects to the new Kygekraqmak's Projects Download Center
